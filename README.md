@@ -57,8 +57,8 @@ Scripts en Python para interactuar con APIs (como Invgate), mover archivos, leer
 
 ## 📫 ¿Dónde encontrarme?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stefanosanchez)
-- 📧 stefano.sanchez@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefanosanchez8/)
+- 📧 stefanosanchez8@gmail.com
 - 🧠 Siempre aprendiendo algo nuevo: actualmente profundizando en back-end con Flask, Node.js y PostgreSQL.
 
 ---
