@@ -44,7 +44,7 @@ Sistema con Express y PostgreSQL para registrar pacientes, gestionar turnos y no
 🔹 **Automatizaciones internas** (privadas o demo por crear)  
 Scripts en Python para interactuar con APIs (como Invgate), mover archivos, leer Excel de SharePoint y generar reportes PDF automáticamente.
 
----
+<!---
 
 ## 📈 Estadísticas de GitHub
 
@@ -53,7 +53,7 @@ Scripts en Python para interactuar con APIs (como Invgate), mover archivos, leer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stsanchez&layout=compact&theme=radical" />
 </p>
 
----
+--->
 
 ## 📫 ¿Dónde encontrarme?
 
